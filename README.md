@@ -89,7 +89,7 @@ With the rise of AI voice cloning and DeepFake scams, this project demonstrates 
 
 🧑‍💻 Author
 
-Selvasri S
+Selvasri K
 B.Tech in Artificial Intelligence and Data Science
 Karpaga Vinayaga College of Engineering and Technology
 📍 Tamil Nadu, India
